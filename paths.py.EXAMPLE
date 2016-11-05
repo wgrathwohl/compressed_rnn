@@ -1,0 +1,4 @@
+"""
+Contains global system paths for data Change this and save as "paths.py"
+"""
+HMOG_PATH = "~/Downloads/public_dataset"
